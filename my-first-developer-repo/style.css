@@ -23,7 +23,7 @@ h1 span{
     color: orange;
 }
 .half-width img{
-    width: 100%;
+    width: 90%;
 }
 .anchor-button{
     text-decoration: none;
@@ -36,7 +36,7 @@ h1 span{
 p{
     color: dimgray;
 }
-.dream-area{
+.dream-big{
     background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
